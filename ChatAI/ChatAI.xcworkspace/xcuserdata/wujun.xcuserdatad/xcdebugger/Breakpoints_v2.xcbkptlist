@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "909030C3-F2C0-4F6E-9B2B-47F4052AB524"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatAI/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "202"
+            endingLineNumber = "202"
+            landmarkName = "-NSURLSession"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - ef2c2a1767aeb627"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController NSURLSession]"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "344"
+                  endingLineNumber = "344"
+                  offsetFromSymbolStart = "1232">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55f3c3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "381"
+                  endingLineNumber = "381"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55f7a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "351"
+                  endingLineNumber = "351"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55f977"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "337"
+                  endingLineNumber = "337"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55c0ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "264"
+                  endingLineNumber = "264"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55c7a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "227"
+                  endingLineNumber = "227"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55c835"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "207"
+                  endingLineNumber = "207"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55c852"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "206"
+                  endingLineNumber = "206"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "6BF9330F-5ED3-4B47-89CC-B1E74233B77A - cb0503350d55c8ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__30-[ViewController NSURLSession]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "202"
+                  endingLineNumber = "202"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3413BFD-3D34-4A92-BB03-B43E083630BB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatAI/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "222"
+            endingLineNumber = "222"
+            landmarkName = "-invoke"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F3413BFD-3D34-4A92-BB03-B43E083630BB - b3eba0f6646b38cb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController invoke]"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "222"
+                  endingLineNumber = "222"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "F3413BFD-3D34-4A92-BB03-B43E083630BB - a61c57464d7c3417"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__24-[ViewController invoke]_block_invoke"
+                  moduleName = "ChatAI"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wujun/Desktop/personal_project/AI/ChatAI/ChatAI/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "224"
+                  endingLineNumber = "224"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23EECCFE-EC51-4213-80A3-9CE55A744E66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatAI/framework/util/chatAITool/ChatAITool.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "354"
+            endingLineNumber = "354"
+            landmarkName = "-invoke:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "FA54415A-E81C-430E-9CE6-34EE701382E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "01F69561-4316-4B0D-9162-9AA6B9CE51A9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "A0213A77-776B-46FE-BDAB-F74A3FE863EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = ""
+            moduleName = "">
+            <Locations>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A98BEA67-791C-484D-B17D-B73377A91495"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatAI/framework/util/chatAITool/ChatAITool.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "370"
+            endingLineNumber = "370"
+            landmarkName = "-insert:user:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
