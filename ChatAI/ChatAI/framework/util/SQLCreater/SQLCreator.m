@@ -1,10 +1,5 @@
 //
-//  HTMLUtil.m
-//  TP
-//
-//  Created by Ted Wu on 13年8月14日.
-//  Copyright (c) 2013年 Saint Peng. All rights reserved.
-//
+
 
 #import "SQLCreator.h"
 //#import "IconLblValueCell.h"
